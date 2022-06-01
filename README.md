@@ -6,7 +6,7 @@
   <br><br>
 </h1>
 <br>
-<h4 align="center">Generated with the purpose of to easily manage and to doing multiple edits across brands, workspaces with submodules are useful for mainly cause we can use only one instance of VSCode to work through the projects  🙌  and still can commit independently.</h4>
+<h4 align="center">Generated with the purpose of corporate organization.</h4>
 <br>
 
 
